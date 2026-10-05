@@ -6,3 +6,5 @@ Johannes Kepler (ou Keppler), né le 27 décembre 1571 à Weil der Stadt et mort
  
  
  Extra line added to the doc
+
+ Extra line : File modified directly from GitHub
